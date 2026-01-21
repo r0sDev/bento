@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'r0s',
-	imageBackground: true,
+	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
