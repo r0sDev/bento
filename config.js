@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Drive',
-			icon: 'drive',
+			icon: 'bot',
 			link: 'https://drive.com',
 		},
 		{
